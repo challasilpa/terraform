@@ -1,4 +1,4 @@
 
 resource "local_file" "silpa" {
-    filename="/c/Users/DELL/downloads/terraform basics/silpa.txt"
+    filename="silpa.txt"
     content="welcome silpa"
