@@ -1,6 +1,5 @@
 variable "filename"{
-    default ="pets.txt"
-    type = "string"
+    default = "pets.txt"
 }
 variable "content"{
 default = "hello"
