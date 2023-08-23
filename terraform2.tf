@@ -1,9 +1,10 @@
 resource "local_file" "test" {
-  filename = "var.filename"
-  content  = "var.content"
+  filename = "hello.txt"
+  content  = "bye"
   }
 
 variable "filename" {
-  defualt = "silpa.txt"
-  content = "hello"
+  filename = "var.filename"
+  content  = "var.content"
+
 }
