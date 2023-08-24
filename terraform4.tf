@@ -4,7 +4,7 @@ content = "I love cats!"
 count = 3
 }
 
-variables.tf
+
 
 variable "filename" {
 default = [
