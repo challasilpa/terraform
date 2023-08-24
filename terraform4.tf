@@ -3,9 +3,7 @@ filename = var.filename[count.index]
 content = "I love cats!"
 count = 3
 }
-
-
-
+,
 variable "filename" {
 default = [
 "pets.txt"
