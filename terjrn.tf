@@ -6,7 +6,7 @@ count = 3
 
 variable "filename" {
 default = [
-"pets.txt",
+"parrots.txt",
 "cats.txt",
 "dogs.txt"
 ]
